@@ -6,6 +6,7 @@
 #include <thread>
 #include <vector>
 #include <stack>
+#include <functional>
 
 class Action;
 class Component;
